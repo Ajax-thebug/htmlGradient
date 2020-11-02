@@ -1,2 +1,2 @@
 # htmlGradient
-Copy Gradient for you HTML Websites.
+//Copy Gradient Codes for your HTML Websites.
