@@ -1,15 +1,20 @@
-h1 {
-	font-family: 'Roboto Mono', monospace;
-	letter-spacing: 1.2rem;
+body{
+
+	text-align: center;
+	font-family: monospace;
+	background: grey;
+}
+
+h1{
+
+	font-size: 50px;
 	color: rgba(0,0,0,.5);
-	font-weight: 600; 
+	outline: 2px dashed black;
 	text-transform: uppercase;
 }
 
+h3 {
 
-body {
-	text-align: center;
-	background: white;/*linear-gradient(to right, red, yellow );*/
-	font-family: 'Roboto Mono', monospace;
+	color: white;
 
 }
