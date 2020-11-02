@@ -1,0 +1,15 @@
+h1 {
+	font-family: 'Roboto Mono', monospace;
+	letter-spacing: 1.2rem;
+	color: rgba(0,0,0,.5);
+	font-weight: 600; 
+	text-transform: uppercase;
+}
+
+
+body {
+	text-align: center;
+	background: white;/*linear-gradient(to right, red, yellow );*/
+	font-family: 'Roboto Mono', monospace;
+
+}
